@@ -1,1 +1,1 @@
-# This was originally just a little bonus question in a class assignment, but I took it to the next level by building a scalable simulator for Lotto MAX and did some serious statistical analysis based on a gazillion simulations 💪
+# This was originally just a little bonus question in a stats course assignment, but I took it to the next level by building a scalable simulator for Lotto MAX and did some serious statistical analysis based on a gazillion simulations 💪
